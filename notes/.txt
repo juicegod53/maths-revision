@@ -1,0 +1,14 @@
+GCSE Grades:
+
+English Lit (Mock - 4), (Exam - 8) +4 grades
+English Lang (Mock - 6), (Exam - 7) +1 grade
+Mathematics (Mock - 9), (Exam - 9) No change
+Further Maths (Mock - 9), (Exam - 9) No change
+Computing (Mock - 9), (Exam - 8) -1 grade
+Religion (Mock - 6), (Exam - 9) +3 grades
+Geography (Mock - 8), (Exam - 8) No change
+Physics (Mock - 9), (Exam - 9) No change
+Chemistry (Mock - 8), (Exam - 9) +1 grade
+Biology (Mock - 7), (Exam - 9) +2 grades
+German (Mock - 6), (Exam - 7) +1 grade
+

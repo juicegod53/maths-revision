@@ -1,0 +1,5 @@
+details:
+default browser firefox official mozilla ppa
+delete non-work related files ( snes emulator, other files/applications)
+password requirements
+password: Qpo?*low92!F
